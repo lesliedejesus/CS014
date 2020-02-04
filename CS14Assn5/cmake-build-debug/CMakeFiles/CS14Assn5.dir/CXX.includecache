@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lesliedejesus/CLionProjects/CS14Assn5/graph.cpp
+graph.h
+/Users/lesliedejesus/CLionProjects/CS14Assn5/graph.h
+vector
+-
+cstdlib
+-
+iostream
+-
+limits
+-
+string
+-
+vector
+-
+queue
+-
+map
+-
+
+/Users/lesliedejesus/CLionProjects/CS14Assn5/graph.h
+cstdlib
+-
+iostream
+-
+limits
+-
+string
+-
+vector
+-
+queue
+-
+map
+-
+

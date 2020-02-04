@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lesliedejesus/CLionProjects/CS14Lab10/Graph.h
+vector
+-
+list
+-
+queue
+-
+fstream
+-
+iostream
+-
+cstdlib
+-
+cstdio
+-
+climits
+-
+Vertex.h
+/Users/lesliedejesus/CLionProjects/CS14Lab10/Vertex.h
+
+/Users/lesliedejesus/CLionProjects/CS14Lab10/Vertex.h
+string
+-
+list
+-
+map
+-
+climits
+-
+Graph.h
+/Users/lesliedejesus/CLionProjects/CS14Lab10/Graph.h
+
+/Users/lesliedejesus/CLionProjects/CS14Lab10/main.cpp
+cstring
+-
+Graph.h
+/Users/lesliedejesus/CLionProjects/CS14Lab10/Graph.h
+
