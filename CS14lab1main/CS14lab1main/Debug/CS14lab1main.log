@@ -1,0 +1,35 @@
+﻿  CS14lab1playlist.cpp
+C:\Users\lales\source\repos\CS14lab1main\CS14lab1playlist.cpp(40,68): error C2248: 'playlistNode::playlistNode': cannot access private member declared in class 'playlistNode'
+C:\Users\lales\source\repos\CS14lab1main\CS14lab1header.h(16): message : see declaration of 'playlistNode::playlistNode'
+C:\Users\lales\source\repos\CS14lab1main\CS14lab1header.h(6): message : see declaration of 'playlistNode'
+C:\Users\lales\source\repos\CS14lab1main\CS14lab1playlist.cpp(65,2): error C2181: illegal else without matching if
+C:\Users\lales\source\repos\CS14lab1main\CS14lab1playlist.cpp(73,9): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\lales\source\repos\CS14lab1main\CS14lab1playlist.cpp(90,26): error C2065: 'head': undeclared identifier
+C:\Users\lales\source\repos\CS14lab1main\CS14lab1playlist.cpp(92,6): error C2065: 'head': undeclared identifier
+C:\Users\lales\source\repos\CS14lab1main\CS14lab1playlist.cpp(92,22): error C2065: 'head': undeclared identifier
+C:\Users\lales\source\repos\CS14lab1main\CS14lab1playlist.cpp(92,30): error C2065: 'tail': undeclared identifier
+C:\Users\lales\source\repos\CS14lab1main\CS14lab1playlist.cpp(103,4): error C2065: 'head': undeclared identifier
+C:\Users\lales\source\repos\CS14lab1main\CS14lab1playlist.cpp(109,18): error C2065: 'tail': undeclared identifier
+C:\Users\lales\source\repos\CS14lab1main\CS14lab1playlist.cpp(110,4): error C2065: 'tail': undeclared identifier
+C:\Users\lales\source\repos\CS14lab1main\CS14lab1playlist.cpp(114,13): error C2065: 'head': undeclared identifier
+C:\Users\lales\source\repos\CS14lab1main\CS14lab1playlist.cpp(122,24): error C2065: 'head': undeclared identifier
+C:\Users\lales\source\repos\CS14lab1main\CS14lab1playlist.cpp(123,4): error C2065: 'head': undeclared identifier
+C:\Users\lales\source\repos\CS14lab1main\CS14lab1playlist.cpp(129,4): error C2065: 'tail': undeclared identifier
+C:\Users\lales\source\repos\CS14lab1main\CS14lab1playlist.cpp(138,26): error C2065: 'head': undeclared identifier
+C:\Users\lales\source\repos\CS14lab1main\CS14lab1playlist.cpp(151,26): error C2065: 'head': undeclared identifier
+C:\Users\lales\source\repos\CS14lab1main\CS14lab1playlist.cpp(155,29): error C3867: 'playlistNode::GetNext': non-standard syntax; use '&' to create a pointer to member
+C:\Users\lales\source\repos\CS14lab1main\CS14lab1playlist.cpp(155,29): error C2440: '=': cannot convert from 'playlistNode *(__thiscall playlistNode::* )(void)' to 'playlistNode *'
+C:\Users\lales\source\repos\CS14lab1main\CS14lab1playlist.cpp(155,22): message : There is no context in which this conversion is possible
+  CS14lab1main.cpp
+C:\Users\lales\source\repos\CS14lab1main\CS14lab1playlist.cpp(161,26): error C2065: 'head': undeclared identifier
+C:\Users\lales\source\repos\CS14lab1main\CS14lab1main\CS14lab1main.cpp(23,2): error C2065: 'Playlist': undeclared identifier
+C:\Users\lales\source\repos\CS14lab1main\CS14lab1main\CS14lab1main.cpp(23,11): error C2146: syntax error: missing ';' before identifier 'list'
+C:\Users\lales\source\repos\CS14lab1main\CS14lab1main\CS14lab1main.cpp(23,15): warning C4091: '': ignored on left of 'std::list' when no variable is declared
+C:\Users\lales\source\repos\CS14lab1main\CS14lab1main\CS14lab1main.cpp(55,7): error C2059: syntax error: '.'
+C:\Users\lales\source\repos\CS14lab1main\CS14lab1main\CS14lab1main.cpp(63,7): error C2059: syntax error: '.'
+C:\Users\lales\source\repos\CS14lab1main\CS14lab1main\CS14lab1main.cpp(72,7): error C2059: syntax error: '.'
+C:\Users\lales\source\repos\CS14lab1main\CS14lab1main\CS14lab1main.cpp(75,7): error C2059: syntax error: '.'
+C:\Users\lales\source\repos\CS14lab1main\CS14lab1main\CS14lab1main.cpp(82,7): error C2059: syntax error: '.'
+C:\Users\lales\source\repos\CS14lab1main\CS14lab1main\CS14lab1main.cpp(86,26): error C2955: 'std::list': use of class template requires template argument list
+  Generating Code...
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\list(691): message : see declaration of 'std::list'

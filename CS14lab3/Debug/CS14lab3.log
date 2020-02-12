@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\lales\source\repos\CS14lab3\main.cpp(51,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\lales\source\repos\CS14lab3\main.cpp(64,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lales\source\repos\CS14lab3\main.cpp(56,9): warning C4101: 'curChar': unreferenced local variable
+C:\Users\lales\source\repos\CS14lab3\main.cpp(58,6): warning C4101: 'index': unreferenced local variable
+  CS14lab3.vcxproj -> C:\Users\lales\source\repos\CS14lab3\Debug\CS14lab3.exe
